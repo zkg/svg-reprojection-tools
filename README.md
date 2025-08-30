@@ -14,12 +14,12 @@ Once you have an equirectangular panorama, you can go crazy with the reprojectio
 
 Here’s some early results using this stack:
 
-![](https://jamez.it/blog/wp-content/uploads/2025/08/new_paris_simple_stereo2.svg)
+![](https://jamez.it/blog/wp-content/uploads/2025/08/new_paris_simple_stereo3.svg)
 
-![](https://jamez.it/blog/wp-content/uploads/2025/08/nyc3_mp_resize.svg)
+![](https://jamez.it/blog/wp-content/uploads/2025/08/nyc3_mp_resize2.svg)
 
-![](https://jamez.it/blog/wp-content/uploads/2025/08/body_simple.svg)
+![](https://jamez.it/blog/wp-content/uploads/2025/08/body_simple2.svg)
 
-![](https://jamez.it/blog/wp-content/uploads/2025/08/new_rome_stereo.svg)
+![](https://jamez.it/blog/wp-content/uploads/2025/08/new_rome_stereo2.svg)
 
 Let the penplotting season begin…
